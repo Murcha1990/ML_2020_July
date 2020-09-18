@@ -26,7 +26,18 @@
 Сделанную работу отправлять по ссылке https://www.dropbox.com/request/T8OHIcHLX5GSYyo38LiT.
 
 
+*ДЗ 4:* Сделать полностью ноутбук Seminar5_2020.ipynb
 
+Дедлайн: 23:59 25 сентября.
+
+Сделанную работу отправлять по ссылке https://www.dropbox.com/request/wOpRVcFmI0XvwkJMH86j.
+
+
+*ДЗ 5:* Домашнее задание в ноутбуке Seminar6_2020.ipynb
+
+Дедлайн: 23:59 2 октября.
+
+Сделанную работу отправлять по ссылке https://www.dropbox.com/request/73D51ZVKs3tmIAJ4GBG9.
 
 
 С вопросами по проверке пишите @belkin1667.
