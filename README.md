@@ -40,5 +40,12 @@
 Сделанную работу отправлять по ссылке https://www.dropbox.com/request/73D51ZVKs3tmIAJ4GBG9.
 
 
+*ДЗ 6:* Домашнее задание в ноутбуке Seminar8.ipynb
+
+Дедлайн: 23:59 16 октября.
+
+Сделанную работу отправлять по ссылке https://www.dropbox.com/request/zOIWjSGh9nituWM5oZ5Q.
+
+
 С вопросами по проверке пишите @belkin1667.
 
