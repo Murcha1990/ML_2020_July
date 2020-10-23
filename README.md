@@ -47,5 +47,12 @@
 Сделанную работу отправлять по ссылке https://www.dropbox.com/request/zOIWjSGh9nituWM5oZ5Q.
 
 
+*ДЗ 7:* Домашнее задание в ноутбуке GBM2020.ipynb
+
+Дедлайн: 23:59 30 октября.
+
+Сделанную работу отправлять по ссылке https://www.dropbox.com/request/XzJgY3owwjQOfKLFdGYC.
+
+
 С вопросами по проверке пишите @belkin1667.
 
